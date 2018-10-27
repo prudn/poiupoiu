@@ -1,0 +1,18 @@
+
+div{
+    border: 2px solid #000;
+	 color: #000;
+	 font-size: 16px;
+	 box-sizing: border-box;
+	 width: 100%;
+}
+.third{
+    width: calc(60% - 8px);
+	 margin: 0 5%;
+}
+.second, .fourth{
+    width: 15%;	
+}
+.second, .third, .fourth{
+	 display: inline-block;
+}
